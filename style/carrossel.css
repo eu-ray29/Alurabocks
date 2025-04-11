@@ -82,6 +82,11 @@
 
 .descricao__imagem {
     width: 140px;
+    margin-left: 1em;
+}
+
+.card__estrealas {
+    margin-bottom: 0.5em;
 }
 
 
