@@ -39,3 +39,36 @@
     
 }
 
+@media screen and (min-width: 1024px) {
+    .novidades {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .novidades__titulo {
+        font-size: 1.7rem;
+    }
+
+    .novidades__texto {
+        font-size: 1.5rem;
+    }
+
+    .novidades__descricao {
+        margin-right: 1em;
+        width: 30%;
+    }
+
+    .novidades__cadastro {
+        width: 35%;
+        padding: 1.5em;
+        margin-left: 3em;
+    }
+
+    .novidades__cadastro::placeholder {
+        font-size: 1.3rem;
+    }
+
+
+}

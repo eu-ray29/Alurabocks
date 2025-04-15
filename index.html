@@ -94,25 +94,22 @@
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
                 <!-- Slides -->
-                <div class="swiper-slide"><img src="assets/Angular.svg" alt="livro de angular da alurabooks"></div>
-                <div class="swiper-slide"><img src="assets/Gestão.svg" alt="livros sobre gestão da alurabooks"></div>
-                <div class="swiper-slide"><img src="assets/Javascript.svg"
-                        alt="livro sobre a linguagem de programação Javascript da alurabooks"></div>
-                <div class="swiper-slide"><img src="assets/Liderança.svg" alt="livro sobre licenças da alurabooks">
-                </div>
-                <div class="swiper-slide"><img src="assets/ReactNative.svg" alt="livro sobre ReactNative da alurabooks">
-                </div>
-                <div class="swiper-slide"><img src="assets/Construct2.svg" alt="livro sobre Construct2 da alurabooks">
-                </div>
+                <div class="swiper-slide"><img src="assets/MEAN.svg" alt="Livro MEAN"></div>
+                <div class="swiper-slide"><img src="assets/Guia Front-end.svg" alt="Guia Front-End"></div>
+                <div class="swiper-slide"><img src="assets/Acessibilidade.svg" alt="Livro Acessibilidade"></div>
+                <div class="swiper-slide"><img src="assets/Tuning.svg" alt="livro Tuning"></div>
+                <div class="swiper-slide"><img src="assets/Portugol.svg" alt="Livro Portugol"></div>
+                <div class="swiper-slide"><img src="assets/Java.svg" alt="livro Java"></div>
+                ...
             </div>
-            ...
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+
         </div>
-
-
-        <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
         </div>
         <div class="card">
             <!--Primeira linha grid-->
@@ -238,9 +235,10 @@
 
     </section>
     <section class="novidades">
-        <h1 class="novidades__titulo"> Fique por dentro das novidades!</h1>
-        <p class="novidades__texto">Atualizações de e-books, novos livros, promoções e outros.</p>
-
+        <div class="novidades__descricao">
+            <h2 class="novidades__titulo"> Fique por dentro das novidades!</h2>
+            <p class="novidades__texto">Atualizações de e-books, novos livros, promoções e outros.</p>
+        </div>
         <input class="novidades__cadastro" type="email" name="email" id="email" placeholder="Cadastre seu e-mail">
     </section>
 

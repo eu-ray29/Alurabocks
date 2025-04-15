@@ -89,6 +89,39 @@
     margin-bottom: 0.5em;
 }
 
+@media screen and (min-width:1024px) {
+    .carrossel__titulo {
+        font-size: 1.62rem;
+    }
 
+    .swiper-pagination {
+        margin: 2em 0 3em 0;
+    }
+    .swiper {
+        width: 60%;
+        
+    }
+
+    .swiper-button-prev, .swiper-button-next {
+        display: block;
+        
+    }
+
+    .card {
+        width: 50%;
+        margin: 2em auto;
+    }
+    .descricao__titulo {
+        font-size: 1.2rem;
+    }
+
+    .descricao__titulo-livro {
+        font-size: 1.4rem;
+    }
+    .descricao__texto {
+        font-size: 1.1rem;
+    }
+
+}
 
 
