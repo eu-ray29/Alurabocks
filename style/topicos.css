@@ -43,4 +43,18 @@
     .topicos__link {
         font-size: 1.5rem;
     }
+
+    .topicos__link:hover {
+        background-color: var(--cinza-claro);
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 1em 30vw 3em 30vw;
+    }
+
+    .topicos__item {
+        margin: 2.2em 0.5em;
+    }
 }
