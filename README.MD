@@ -7,7 +7,7 @@ Alurabocks é um site em HTML e CSS de vendas de livros deselvovido no curso de 
 
 
 
-<img width="50%" src="assets/Alurabocks-mobile.jpeg">
+<img width="20%" align="center" src="assets/Alurabocks-mobile.jpeg">
 
 
 
