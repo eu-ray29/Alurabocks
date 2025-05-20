@@ -70,3 +70,5 @@ O AluraBooks simula uma livraria online moderna e funcional. O site foi criado c
 ## 🎯 Objetivo
 
 Este projeto foi desenvolvido como parte dos estudos da plataforma **Alura**, com foco em aprendizado prático de HTML e CSS, além de construção de páginas com layout moderno e responsivo.
+
+Desenvolvido por Raynara
