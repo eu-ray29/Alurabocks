@@ -18,7 +18,6 @@ O AluraBooks simula uma livraria online moderna e funcional. O site foi criado c
 
 * **Banner principal**
 
-  * Imagem de destaque
   * Campo de pesquisa de livros
 
 * **Seção: Últimos Lançamentos**
