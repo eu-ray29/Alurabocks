@@ -1,78 +1,73 @@
-📚 AluraBooks
-AluraBooks é um site fictício de vendas de livros desenvolvido com HTML e CSS, com o objetivo de praticar e demonstrar conhecimentos em estruturação e estilização de páginas web.
+# 📚 AluraBooks
 
-🔎 Sobre o Projeto
+**AluraBooks** é um site fictício de vendas de livros desenvolvido com **HTML** e **CSS**, com o objetivo de praticar e demonstrar conhecimentos em estruturação e estilização de páginas web.
+
+## 🔎 Sobre o Projeto
+
 O AluraBooks simula uma livraria online moderna e funcional. O site foi criado com foco em organização visual, usabilidade e boas práticas de desenvolvimento front-end.
 
-💡 Funcionalidades e Seções
-Cabeçalho (Header)
-Contém:
+## 💡 Funcionalidades e Seções
 
-Menu de navegação
+* **Cabeçalho (Header)**
+  Contém:
 
-Ícone de favorito
+  * Menu de navegação
+  * Ícone de favorito
+  * Ícone de sacola de compras
+  * Ícone de perfil
 
-Ícone de sacola de compras
+* **Banner principal**
 
-Ícone de perfil
+  * Imagem de destaque
+  * Campo de pesquisa de livros
 
-Banner principal
+* **Seção: Últimos Lançamentos**
 
-Imagem de destaque
+  * Carrossel com os livros mais recentes
 
-Campo de pesquisa de livros
+* **Seção: Sugestão de Livro**
 
-Seção: Últimos Lançamentos
+  * Destaque especial com indicação personalizada
 
-Carrossel com os livros mais recentes
+* **Seção: Mais Vendidos**
 
-Seção: Sugestão de Livro
+  * Carrossel com os livros mais vendidos
 
-Destaque especial com indicação personalizada
+* **Seção: Autor(a) do Mês**
 
-Seção: Mais Vendidos
+  * Apresentação do(a) autor(a) em destaque com imagem e descrição
 
-Carrossel com os livros mais vendidos
+* **Seção: Tópicos Mais Visitados**
 
-Seção: Autor(a) do Mês
+  * Lista dos assuntos/livros mais acessados
 
-Apresentação do(a) autor(a) em destaque com imagem e descrição
+* **Seção: Newsletter**
 
-Seção: Tópicos Mais Visitados
+  * Formulário de inscrição para receber novidades
 
-Lista dos assuntos/livros mais acessados
+* **Rodapé (Footer)**
 
-Seção: Newsletter
+  * Informações institucionais, links úceis e redes sociais
 
-Formulário de inscrição para receber novidades
+## 🛠️ Tecnologias Utilizadas
 
-Rodapé (Footer)
+* HTML5
+* CSS3
 
-Informações institucionais, links úteis e redes sociais
+## 📁 Como Visualizar o Projeto
 
-🛠️ Tecnologias Utilizadas
-HTML5
+1. Clone este repositório:
 
-CSS3
+   ```bash
+   git clone https://github.com/seu-usuario/alurabooks.git
+   ```
+2. Acesse a pasta do projeto:
 
-📁 Como Visualizar o Projeto
-1 - Clone este repositório:
+   ```bash
+   cd alurabooks
+   ```
+3. Abra o arquivo `index.html` em seu navegador.
 
-bash
+## 🎯 Objetivo
 
-git clone https://github.com/seu-usuario/alurabooks.git
-
-2 - Acesse a pasta do projeto:
-
-bash
-cd alurabooks
-3 - Abra o arquivo index.html em seu navegador.
-
-🎯 Objetivo
-Este projeto foi desenvolvido como parte dos estudos da plataforma Alura, com foco em aprendizado prático de HTML e CSS, além de construção de páginas com layout moderno e responsivo.
-
-
-
-
-
-
+Este projeto foi desenvolvido como parte dos estudos da plataforma **Alura**, com foco em aprendizado prático de HTML e CSS, além de construção de páginas com layout moderno e responsivo.
