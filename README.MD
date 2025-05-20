@@ -1,18 +1,75 @@
-<h1 align="center"> AluraBocks</h1>
+📚 AluraBooks
+AluraBooks é um site fictício de vendas de livros desenvolvido com HTML e CSS, com o objetivo de praticar e demonstrar conhecimentos em estruturação e estilização de páginas web.
 
-<h2 > Descrição </h2>
+🔎 Sobre o Projeto
+O AluraBooks simula uma livraria online moderna e funcional. O site foi criado com foco em organização visual, usabilidade e boas práticas de desenvolvimento front-end.
 
-<p font-size="1rem">
-Alurabocks é um site em HTML e CSS de vendas de livros deselvovido no curso de Mobile furst da Alura </p>
+💡 Funcionalidades e Seções
+Cabeçalho (Header)
+Contém:
 
+Menu de navegação
 
-<h3> Alurabocks Mobile </h3>
-<img width="20%" src="assets/img/Alurabocks-mobile.jpeg">
+Ícone de favorito
 
+Ícone de sacola de compras
 
-<h3>Alurabocks Desktop</h3>
+Ícone de perfil
 
-<img width="50%" src="assets/img/alurabocks-desktop.png">
+Banner principal
+
+Imagem de destaque
+
+Campo de pesquisa de livros
+
+Seção: Últimos Lançamentos
+
+Carrossel com os livros mais recentes
+
+Seção: Sugestão de Livro
+
+Destaque especial com indicação personalizada
+
+Seção: Mais Vendidos
+
+Carrossel com os livros mais vendidos
+
+Seção: Autor(a) do Mês
+
+Apresentação do(a) autor(a) em destaque com imagem e descrição
+
+Seção: Tópicos Mais Visitados
+
+Lista dos assuntos/livros mais acessados
+
+Seção: Newsletter
+
+Formulário de inscrição para receber novidades
+
+Rodapé (Footer)
+
+Informações institucionais, links úteis e redes sociais
+
+🛠️ Tecnologias Utilizadas
+HTML5
+
+CSS3
+
+📁 Como Visualizar o Projeto
+1 - Clone este repositório:
+
+bash
+
+git clone https://github.com/seu-usuario/alurabooks.git
+
+2 - Acesse a pasta do projeto:
+
+bash
+cd alurabooks
+3 - Abra o arquivo index.html em seu navegador.
+
+🎯 Objetivo
+Este projeto foi desenvolvido como parte dos estudos da plataforma Alura, com foco em aprendizado prático de HTML e CSS, além de construção de páginas com layout moderno e responsivo.
 
 
 
